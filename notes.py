@@ -9,6 +9,34 @@
 
 
 
+num1 = int(input("Enter a number: "))
+print(num1 + num1)
+
+thing = 2049/234
+print(thing)
+print("Random number = " + str(thing))
+print(f"Random number = {thing}")
+print("Random number =", thing)
+
+
+print("first line \nsecond line \nthird line")
+print("list header")
+print("\tabc")
+print("\tdef")
+print("\tghi \n\tjkl \n\tmno")
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Live Demo ##
 #
 # Casing
